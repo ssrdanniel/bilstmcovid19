@@ -2,6 +2,6 @@
 
 ## Before using please download the datasets here:
 
-USA State level daily data https://covidtracking.com/data/us-daily 
+USA State level daily data - https://covidtracking.com/data/us-daily 
 
-Other countries daily data https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data
+Other countries daily data - https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data
